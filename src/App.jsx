@@ -22,7 +22,7 @@ function App() {
             "circle circle-orange " + (selected === "orange" ? "turn-on" : "")
           }
           onClick={() => handleSelected("orange")}
-        ></div>
+        > </div>
         <div
           className={
             "circle circle-green " + (selected === "green" ? "turn-on" : "")

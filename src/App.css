@@ -21,6 +21,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  border-radius: 10px;
 }
 
 .circle {
@@ -46,5 +47,5 @@ body {
 }
 
 .turn-on {
-  box-shadow: 0 0 100px yellow; /* Sombra alrededor del círculo */
+  box-shadow: 0 0 100px yellow; 
 }
